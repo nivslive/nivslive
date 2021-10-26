@@ -12,7 +12,7 @@
 </div>
 
 
-- 💞️ I’m looking to collaborate on ...
+
 <h2> 📫 How to reach me? </h2>
 
 <a href="https://instagram.com/nivslive"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50"></a>
