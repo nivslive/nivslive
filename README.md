@@ -5,10 +5,11 @@
  👀 I’m interested in  WEB DEVELOPMENT Actually!  </h1> 
  
 <h2> 🌱 Skills </h2>
-<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="50">    <img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="50"> 
+<div style="display:flex">
+<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="50">    <img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="50"> 
 <h2> 🌱 I’m currently learning </h2>
  <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" width="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" width="50"> 
-
+</div>
 
 
 - 💞️ I’m looking to collaborate on ...
