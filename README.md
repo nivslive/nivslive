@@ -16,7 +16,7 @@
 <h2> 📫 How to reach me? </h2>
 
 <a href="https://instagram.com/nivslive"><img src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" width="50"></a>
-<a href="www.linkedin.com/in/nivslive
+<a href="https://www.linkedin.com/in/nivanjr
 "> <img src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" width="50"></a>
 <a href="https://api.whatsapp.com/send?phone=555511974885114&text=Numero%20do%20Nivan%20Junior!%20(Ou%20Nivs%20para%20os%20mais%20pr%C3%B3ximos)."><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="50px"></img></a>
 
