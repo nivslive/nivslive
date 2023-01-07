@@ -1,10 +1,10 @@
- <h1> 👋 Hi, I’m @nivslive! Software Engineer and Designer
+ <h1> 👋 Hi, I’m @nivslive! Software Engineer and Designer </h1>
 
 
 
- 👀 I’m interested in  WEB DEVELOPMENT Actually!  </h1> 
+<h3> 👀 I’m interested in  WEB DEVELOPMENT Actually!  </h3> 
  
-<h2> 🌱 Skills </h2>
+<h4> 🌱 Skills </h4>
 <div style="display:flex">
 <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="50">    <img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="50">  <img src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" width="50"> <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50"/>
@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="50"//>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50"//>
 
-<h2> 🌱 I’m currently learning </h2>
+<h4> 🌱 I’m currently learning </h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50"//>
 
