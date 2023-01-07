@@ -7,7 +7,7 @@
 <h2> 🌱 Skills </h2>
 <div style="display:flex">
 <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="50">    <img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="50">  <img src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" width="50"> <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50"/>
 
 <h2> 🌱 I’m currently learning </h2>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
