@@ -2,7 +2,7 @@
 
 
 
-<h3> 👀 I’m interested in  WEB DEVELOPMENT Actually!  </h3> 
+<h3> 👀 I’m interested in  WEB DEVELOPMENT currently!  </h3> 
  
 <h4> 🌱 Skills </h4>
 <div style="display:flex">
