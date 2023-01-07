@@ -1,4 +1,5 @@
- <h1> 👋 Hi, I’m @nivslive! Software Engineer and Designer </h1>
+<img src="https://rishavanand.github.io/static/images/greetings.gif"> 
+<h1> 👋 I’m @nivslive! Software Engineer and Designer </h1>
 
 
 
