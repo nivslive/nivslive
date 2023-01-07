@@ -1,4 +1,4 @@
-<div style="display:flex;justify-content:center;align-items:center;"><img src="https://rishavanand.github.io/static/images/greetings.gif" margin="auto" width="700"></div>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" margin="auto" width="1000">
 <h1> 👋 I’m @nivslive! Software Engineer and Designer </h1>
 
 
