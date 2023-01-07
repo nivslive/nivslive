@@ -8,11 +8,16 @@
 <div style="display:flex">
 <img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="50"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="50">    <img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="50">  <img src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" width="50"> <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="50"/>
+  <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" width="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
 <h2> 🌱 I’m currently learning </h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
- <img src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" width="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+
 </div>
 
 
